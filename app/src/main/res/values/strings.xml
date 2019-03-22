@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">动态浮窗</string>
+    <string name="str_open">启动</string>
+    <string name="id_btn_close">关闭</string>
+    <string name="str_province">新疆</string>
+    <string name="str_number">警号:011520</string>
+    <string name="str_time">2019-03-22</string>
+    <string name="str_dialog">浮窗形式</string>
+    <string name="str_water_mask">水印形式</string>
+    <string name="str_tip">Demo提示：需要在终端所有的界面都显示警员省份 警号 当前日期(可以尝试退出浮窗或者水印都还在)，目前采用的是WindowManger动态添加View，但是不能保活，程序被杀死之后，浮窗或者水印都会被强制关闭！ </string>
+</resources>
